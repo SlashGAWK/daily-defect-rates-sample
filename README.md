@@ -1,5 +1,5 @@
-# daily-defect-rates-sample
-# 📊 Daily Defect Rate Analysis in SQL
+
+# 📊 Daily Defect Rate Analysis in SQL (sample)
 
 This simple SQL project demonstrates how to calculate **daily defect rates** for a manufacturing operation—like SpaceX's Raptor engine line.
 
